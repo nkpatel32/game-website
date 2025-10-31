@@ -56,10 +56,10 @@ export const Navbar = () => {
   return (
     <header
       ref={navContainerRef}
-      className="fixed inset-x-0 top-4 z-50 h-16 border-none transition-all duration-700 sm:inset-x-6"
+      className="fixed inset-x-0 z-50 h-16 transition-all duration-700 border-none top-4 sm:inset-x-6"
     >
-      <div className="absolute top-1/2 w-full -translate-y-1/2">
-        <nav className="flex size-full items-center justify-between p-4">
+      <div className="absolute w-full -translate-y-1/2 top-1/2">
+        <nav className="flex items-center justify-between p-4 size-full">
           <div className="flex items-center gap-7">
             <a href="#hero" className="transition hover:opacity-75">
               <img src="/img/logo.png" alt="Logo" className="w-10" />
@@ -74,7 +74,7 @@ export const Navbar = () => {
             </Button>
           </div>
 
-          <div className="flex h-full items-center">
+          <div className="flex items-center h-full">
             <div className="hidden md:block">
               {NAV_ITEMS.map(({ label, href }) => (
                 <a key={href} href={href} className="nav-hover-btn">
@@ -86,7 +86,7 @@ export const Navbar = () => {
             <div className="flex items-center gap-4">
               <button
                 onClick={toggleAudioIndicator}
-                className="ml-10 flex items-center space-x-1 p-2 transition hover:opacity-75"
+                className="flex items-center p-2 ml-10 space-x-1 transition hover:opacity-75"
                 title="Play Audio"
               >
                 <audio
@@ -119,7 +119,7 @@ export const Navbar = () => {
                 className="transition hover:opacity-75"
                 title="Source Code"
               >
-                <FaGithub className="size-5 text-white" />
+                <FaGithub className="text-white size-5" />
               </a>
             </div>
           </div>

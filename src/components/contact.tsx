@@ -14,9 +14,9 @@ const ImageClipBox = ({ src, alt, clipClass }: ImageClipBoxProps) => (
 
 export const Contact = () => {
   return (
-    <section id="contact" className="my-20 min-h-96 w-screen px-10">
-      <div className="relative rounded-lg bg-black py-24 text-blue-50 sm:overflow-hidden">
-        <div className="absolute -left-20 top-0 hidden h-full w-72 overflow-hidden sm:block lg:left-20 lg:w-96">
+    <section id="contact" className="w-screen px-10 my-20 min-h-96">
+      <div className="relative py-24 bg-black rounded-lg text-blue-50 sm:overflow-hidden">
+        <div className="absolute top-0 hidden h-full overflow-hidden -left-20 w-72 sm:block lg:left-20 lg:w-96">
           <ImageClipBox
             src="/img/contact-1.webp"
             alt="Contact bg 1"
