@@ -1,21 +1,21 @@
 <a name="readme-top"></a>
 
-# Nova - 3D Animated Gaming Website
+# NK – 3D Animated Gaming Website
 
-![Nova - 3D Animated Gaming Website](/.github/images/img_main.png "Nova - 3D Animated Gaming Website")
+![NK – 3D Animated Gaming Website](/.github/images/img_main.png "NK – 3D Animated Gaming Website")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/game-website?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/game-website/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)](https://nova-game.netlify.app/ "Netlify Status")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/NKpatel32 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/nkpatel32/game-website?icon=github&color=black&scale=1.01)](https://github.com/NKpatel32/game-website/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/nkpatel32/game-website/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/nkpatel32/game-website?icon=github&color=black&scale=1.01)](https://github.com/NKpatel32/game-website/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/nkpatel32/game-website?icon=github&color=black&scale=1.01)](https://github.com/NKpatel32/game-website/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/nkpatel32/game-website?icon=github&color=black&scale=1.01)](https://github.com/NKpatel32/game-website/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/nkpatel32/game-website?icon=github&color=black&scale=1.01)](https://github.com/NKpatel32/game-website/pulls "GitHub pull requests")
+[![Deployment Status](https://flat.badgen.net/static/Deployed/coming%20soon?icon=netlify&color=green&scale=1.01)](# "Deployment Status")
 
-<!-- Table of Contents -->
+---
+
 <details>
-
 <summary>
 
 # :notebook_with_decorative_cover: Table of Contents
@@ -32,16 +32,15 @@
 - [Buy Me a Coffee](#coffee-buy-me-a-coffee)
 - [Follow Me](#rocket-follow-me)
 - [Learn More](#books-learn-more)
-- [Deploy on Netlify](#page_with_curl-deploy-on-netlify)
+- [Deploy](#page_with_curl-deploy)
 - [Give A Star](#star-give-a-star)
 - [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
 
 </details>
 
-## :bangbang: Folder Structure
+---
 
-Here is the folder structure of this app.
+## :bangbang: Folder Structure
 
 ```bash
 game-website/
@@ -87,6 +86,7 @@ game-website/
   |- tsconfig.json
   |- tsconfig.node.json
   |- vite.config.ts
+
 ```
 
 <br />
@@ -157,9 +157,9 @@ Useful resources and dependencies that are used in Nova.
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Follow Me](https://img.shields.io/github/followers/nkpatel32?style=social&label=Follow&maxAge=2592000)](https://github.com/nkpatel32 "Follow Me")
 [![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fgame-website "Tweet about this project")
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
+[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/thecodecommandos)](https://www.youtube.com/@thecodecommandos./?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
 ## :books: Learn More
 
